@@ -5,8 +5,8 @@ var valor = "";
 switch(bebida) {
 
     case bebida = "Água":   
-    console.log("Água custa R$5,00 a unidade");
-    break;
+        console.log("Água custa R$5,00 a unidade");
+        break;
     
     case bebida = "Café":
         console.log("Café custa R$2,00 a unidade");
